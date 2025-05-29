@@ -68,7 +68,7 @@ export default function Resume() {
                             "location": "Atlanta, GA",
                             "image": "/logos/GT.png",
                         }} ><p>
-                                <span className="font-bold">Coursework:</span> Computer Networks, Database Implementation, Operating Systems, Algorithms, Tech Policy & Privacy Law, Online Communities
+                                <span className="font-bold">Coursework:</span> Computer Networks, Data Center Networks & Systems, Software Hardware Co-Design for ML, ML Security, Blockchain, Algorithms, Tech Policy & Privacy Law, Online Communities
                             </p></Experience>
                         <Experience data={{
                             "company": "University of Michigan",
@@ -78,7 +78,7 @@ export default function Resume() {
                             "image": "/logos/michigan.png",
 
                         }} ><p>
-                                <span className="font-bold">Coursework:</span> Machine Learning, Software Engineering, Data Structure & Algorithms, Web Systems, Computer Organization, Natural Language Processing, Applied Regression Analysis, Combinatorics & Graph Theory, Reinforcement Learning, Quantum Computing, Information Retrieval
+                                <span className="font-bold">Coursework:</span> Machine Learning, Software Engineering, Data Structure & Algorithms, Web Systems, Computer Organization, Natural Language Processing, Applied Regression Analysis, Probability, Combinatorics & Graph Theory, Reinforcement Learning, Quantum Computing, Information Retrieval
                             </p></Experience>
                     </div>
                     <div className='py-2'>
