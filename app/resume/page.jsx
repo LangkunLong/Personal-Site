@@ -17,10 +17,30 @@ export const metadata = {
 export default function Resume() {
     const resume = [
         {
+            "company": "Amazon",
+            "dates": "Aug - Nov 2025",
+            "role": "Business Intelligence Engineer Intern",
+            "location": "Nashville, TN",
+            "image": "/logos/amazon.png",
+            "bullets": []
+        },
+        {
+            "company": "DL Trading",
+            "dates": "May - Aug 2025",
+            "role": "Quantitative Developer Intern",
+            "location": "Chicago, IL",
+            "image": "/logos/dl.png",
+            "bullets": [
+                "Built a Python market condition monitor by integrating with data providers over HTTP and websocket, reduced latency by 99+% over existing SQL solution. Used by internal and client traders for trading in all major sports",
+                "Prototyped exchange integration with Kalshi, including data ingestion and validation with SQL and Pydantic over REST APIs, and orderbook, RFQ, and portfolio management through websockets",
+                "Developed an internal service latency alert using Python and Prometheus to simplify diagnostics and triaging"
+            ]
+        },
+        {
             "company": "Shopify",
             "dates": "May - Aug 2022",
             "role": "Data Science Intern, Shopify Payments",
-            "location": "Toront, ON & Vancouver, BC",
+            "location": "Toronto, ON & Vancouver, BC",
             "image": "/logos/shopify.png",
             "bullets": [
                 "Implemented and maintained Spark and SQL data pipelines to unblock SP deployment in France, improve data transformation workflow for three downstream teams, and contribute three new KPIs to company-wide dashboard",
