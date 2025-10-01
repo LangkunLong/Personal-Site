@@ -32,7 +32,7 @@ export default function Resume() {
             "image": "/logos/dl.png",
             "bullets": [
                 "Built a Python market condition monitor by integrating with data providers over HTTP and websocket, reduced latency by 99+% over existing SQL solution. Used by internal and client traders for trading in all major sports",
-                "Prototyped exchange integration with Kalshi, including data ingestion and validation with SQL and Pydantic over REST APIs, and orderbook, RFQ, and portfolio management through websockets",
+                "Prototyped integration with an external exchange, including data ingestion and validation with SQL and Pydantic over REST APIs, and orderbook, RFQ, and portfolio management through websockets",
                 "Developed an internal service latency alert using Python and Prometheus to simplify diagnostics and triaging"
             ]
         },
