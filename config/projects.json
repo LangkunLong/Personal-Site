@@ -24,8 +24,8 @@
             "Nvidia Jetson",
             "CANBUS"
         ],
-        "description": "Co-led a team of 15. Trained cGAN with U-Net architecture on 25,000-image MIRFLICKR dataset using slurm on University of Michigan's Great Lakes HPC Cluster",
-        "desktopImage": "/cloud.jpg"
+        "description": "Configured GPS, Lidar, and IMU sensors with ROS(C++) on Ubuntu to stream real-time data and generate terrain maps; Competed in the Canadian International Rover Challenge (CIRC)!",
+        "desktopImage": "/rsx-circ.jpg"
     },
     {
         "name": "Ultimate Fan Trip Routing Optimizer",
