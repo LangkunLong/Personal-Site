@@ -23,7 +23,9 @@ export default function Resume() {
             "location": "Toronto, ON",
             "image": "/logos/criteo.png",
             "bullets": [
-
+                "Built REST API health check endpoints in ASP.NET (C#) to expose business logic for Marathon-based monitoring and validate hourly budget resets, ensuring >95% of accounts reset spend correctly in real time.",
+                "Increased code coverage from 0 to 75% for high-churn code paths by developing Unit, Isolation, and End-to-End workflow tests, strengthening CI/CD quality and deployment confidence.",
+                "Deployed kubernetes fleet in preprod/prod to validate Mesos-to-k8s migration, supporting service modernization efforts."
             ]
         },
         {
