@@ -74,11 +74,11 @@ export default function Resume() {
                             EDUCATION 👨‍🎓
                         </h2>
                         <Experience data={{
-                            "company": "Georgia Institute of Technology",
-                            "dates": "Aug 2024 - Apr 2026",
-                            "role": "Master's of Science in Computer Science, Specialization: Computing Systems",
-                            "location": "Atlanta, GA",
-                            "image": "/logos/GT.png",
+                            "company": "University of Western Ontario",
+                            "dates": "Sept 2025 - Apr 2027",
+                            "role": "M.A.Sc. Robotics, Research Focus: LLM-driven Game-Theoretic reasoning for autonomous vehicle trajectory planning",
+                            "location": "London, ON",
+                            "image": "/logos/western.png",
                         }} ><p>
                                 <span className="font-bold">Coursework:</span> Computer Networks, Data Center Networks & Systems, Software Hardware Co-Design for ML, ML Security, Blockchain, Algorithms, Tech Policy & Privacy Law, Online Communities
                             </p></Experience>
