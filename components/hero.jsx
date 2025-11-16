@@ -8,11 +8,11 @@ export default function Hero() {
           <h1 className="text-5xl font-extrabold self-align-center">
             👋 I&apos;m{' '}
             <span className=" text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-              Casper
+              Larry
             </span>
           </h1>
           <p className="mt-2">
-            University of Michigan data science class of 2024 〽️, now MSCS @ Georgia Tech. Interested in working in data science 📈, data engineering 🔢, and open-source 🔓.
+            Electrical and Computer Engineering Alum from the Univeristy of Toronto, now doing Masters of ECE Robotics at Western! My research focus is on using Game Theoretic approaches to integrate Large Language Models as trajectory planners for Autonomous Driving. Interested in working in Software Development, Robotics, and Machine Learning.
           </p>
           <div className="flex justify-start gap-5 pt-2 flex-wrap">
             <Link
@@ -34,7 +34,7 @@ export default function Hero() {
           className="rounded h-[400px] w-auto object-cover md:ml-auto "
           width={500}
           height={500}
-          src="/portrait.jpg"
+          src="/Profile pic.png"
           alt="Me, myself, and I"
         />
       </div>

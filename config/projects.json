@@ -3,27 +3,12 @@
         "name": "SnapNutrient - Your personalzied nutrition tracking platform",
         "link": "https://snapnutrient.com/",
         "github": "https://github.com/LangkunLong/SnapNutrient-Public",
-        "icons": [
-            "TypeScript",
-            "GPT",
-            "RAG",
-            "aws",
-            "Next.js",
-            "Google OAuth"
-        ],
         "description": "Launched an AI-powered meal tracking platform using Next.js and TypeScript secured via Google OAuth2, enabling users to log meals via photo, receive personalized nutrition analysis, and interact socially through likes and comments.",
         "desktopImage": "/snapnutrient-features.png"
     },
     {
         "name": "Robotics for Space Exploration - CIRC Competition 2022",
         "github": "https://github.com/rsx-utoronto",
-        "icons": [
-            "Python",
-            "C++",
-            "ROS",
-            "Nvidia Jetson",
-            "CANBUS"
-        ],
         "description": "Configured GPS, Lidar, and IMU sensors with ROS(C++) on Ubuntu to stream real-time data and generate terrain maps; Competed in the Canadian International Rover Challenge (CIRC)!",
         "desktopImage": "/rsx-circ.jpg"
     },
@@ -31,34 +16,18 @@
         "name": "Multi-Agent Traffic Analysis (Work in Progress)",
         "link": "https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-crosswalk",
         "github": "https://github.com/LangkunLong/Multi-Agent-Traffic-Analysis",
-        "icons": [
-            "Python",
-            "SQL",
-            "Pandas"
-        ],
         "description": "Will be exploring the following relationships between drivers and pedastrians using the Waterloo multi-agent traffic dataset: crosswalk: multi-agent traffic behavior modelling, trajectory prediction and interaction modelling between vehicles and pedestrians.",
         "desktopImage": "/multi-agent.png"
     },
     {
         "name": "Are you Smoking?",
         "github": "https://github.com/Yiming3/AreYouSmoking",
-        "icons": [
-            "Python",
-            "PyTorch",
-            "Pandas",
-            "Numpy"
-        ],
         "description": "Published a smoking detection system using a 4-layer CNN in PyTorch, targeting real-time detection in live video feeds. Achieved 99% train, 87% validation, and 85% test accuracy using batch norm, dropout, and max pooling layers.",
         "desktopImage": "/Are you smoking diagram.jpg"
     },
     {
         "name": "CANSLIM Momentum Trading Bot (Work in Progress)",
         "github": "https://github.com/LangkunLong/RS-momentum-EMA-trading-bot",
-        "icons": [
-            "Python",
-            "pandas",
-            "Numpy"
-        ],
         "description": "Focused on using an 8/21 ema pullback strategy to identify entries for high momentum growth stocks; Also added in William O'Neil's CANSLIM methodology to identify high growth stocks.",
         "desktopImage": "/canslim.png"
     }

@@ -21,7 +21,7 @@ export default function Resume() {
             "dates": "May - Aug 2025",
             "role": "Software Engineer Intern",
             "location": "Toronto, ON",
-            "image": "/logos/criteo.png",
+            "image": "/logos/criteo.jpg",
             "bullets": [
                 "Built REST API health check endpoints in ASP.NET (C#) to expose business logic for Marathon-based monitoring and validate hourly budget resets, ensuring >95% of accounts reset spend correctly in real time.",
                 "Increased code coverage from 0 to 75% for high-churn code paths by developing Unit, Isolation, and End-to-End workflow tests, strengthening CI/CD quality and deployment confidence.",
@@ -29,9 +29,9 @@ export default function Resume() {
             ]
         },
         {
-            "company": "Huawei Technologies Canada",
+            "company": "Huawei Technologies Canada - ROMA AI",
             "dates": "Aprl - Aug 2024",
-            "role": "ML Research Intern, ROMA AI",
+            "role": "ML Research Intern",
             "location": "Toronto, ON",
             "image": "/logos/huawei.png",
             "bullets": [
@@ -42,9 +42,9 @@ export default function Resume() {
             ]
         },
         {
-            "company": "Huawei Technologies Canada",
+            "company": "Huawei Technologies Canada - Distributed Caching System",
             "dates": "May 2023 - Mar 2024",
-            "role": "Software Engineer Intern, Distributed Caching System",
+            "role": "Software Engineer Intern",
             "location": "Toronto, ON",
             "image": "/logos/huawei.png",
             "bullets": [
@@ -95,7 +95,7 @@ export default function Resume() {
                             "dates": "Sept 2020 - June 2025",
                             "role": "Bachelor of Applied Science in Computer Engineering, Minor in Engineering Business",
                             "location": "Toronto, ON",
-                            "image": "/logos/uoft.png",
+                            "image": "/logos/uoft.jpg",
 
                         }} ><p>
                                 <span className="font-bold">Coursework:</span> Computer Security, Computer Networks, Distributed Systems, Operating Systems, Deep Learning, Data Structures & Algorithms, Software Design

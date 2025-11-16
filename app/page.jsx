@@ -43,16 +43,17 @@ export default async function Home() {
             className="rounded h-[400px] w-auto object-cover md:mr-auto "
             width={500}
             height={500}
-            src="/larry_profile_pic.png"
+            src="/Profile pic.png"
             alt="Me, myself, and I"
           />
           <div className='md:w-2/3 lg:w-1/2'>
             <h2 className='text-3xl font-bold mb-2'>What's up!</h2>
-            <p className='mb-2'>My name is Larry and I recently graduated from the University of Michigan in 2024 with a bachelor of science in engineering in data science <i>summa cum laude</i>. I also completed two minors, in math and linguistics respectively. 〽️ Go Blue! 〽️</p>
-            <p className='mb-2'>I am now pursuing a master&apos;s degree in computer science at the Georgia Institute of Technology, expecting to graduate in spring 2026. 🐝 Sting &apos;Em! 🐝</p>
-            <p className='mb-2'>You can probably guess by now that I am a big college football fan. I will also not give up an opportunity to nerd out about formula 1 🏎️ and talk your ears off about soccer ⚽.</p>
-            <p className='mb-2'>Otherwise, catch me on the hiking trails 🗻 or in the theaters 🎭.</p>
+            <p className='mb-2'>Hi All, I just recently finished my B.A.Sc. in Computer Engineering at the University of Toronto, and started my M.E.Sc at Western University. My research focus is on using game theoretic applications of Large Language Models as trajectory planners for Autonomous Vehicles, focusing on improved safety and contextual reasoning!</p>
+            <p className='mb-2'>Over the summer I interned at Criteo as a software intern working on backend development using C#., ASP.NET, and RESTApi.</p>
+            <p className='mb-2'>My other experiences include working at Huawei Technologies as a co-op student where I worked on Redis and KeyDB design verifications on the Distributed Caching team, and working with LLM prompting and RAG on the ROMA AI team.</p>
+            <p className='mb-2'>I love to play basketball! If you have an open court, feel free to let me know and let's get some hoops in!</p>
             <Button text="View My Resume 📄" href='/resume' />
+
           </div>
         </div>
       </section>
