@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Footer from '@/components/footer';
 
 export const metadata = {
-    title: 'Resume - Casper Guo',
+    title: 'Resume - Larry Long',
     icons: {
         icon: '/logo.png',
         // shortcut: '/shortcut-icon.png',
@@ -17,50 +17,42 @@ export const metadata = {
 export default function Resume() {
     const resume = [
         {
-            "company": "Amazon",
-            "dates": "Aug - Nov 2025",
-            "role": "Business Intelligence Engineer Intern",
-            "location": "Nashville, TN",
-            "image": "/logos/amazon.png",
-            "bullets": []
-        },
-        {
-            "company": "DL Trading",
+            "company": "Criteo",
             "dates": "May - Aug 2025",
-            "role": "Quantitative Developer Intern",
-            "location": "Chicago, IL",
-            "image": "/logos/dl.png",
+            "role": "Software Engineer Intern",
+            "location": "Toronto, ON",
+            "image": "/logos/criteo.png",
             "bullets": [
-                "Built a Python market condition monitor by integrating with data providers over HTTP and websocket, reduced latency by 99+% over existing SQL solution. Used by internal and client traders for trading in all major sports",
-                "Prototyped integration with an external exchange, including data ingestion and validation with SQL and Pydantic over REST APIs, and orderbook, RFQ, and portfolio management through websockets",
-                "Developed an internal service latency alert using Python and Prometheus to simplify diagnostics and triaging"
+
             ]
         },
         {
-            "company": "Shopify",
-            "dates": "May - Aug 2022",
-            "role": "Data Science Intern, Shopify Payments",
-            "location": "Toronto, ON & Vancouver, BC",
-            "image": "/logos/shopify.png",
+            "company": "Huawei Technologies Canada",
+            "dates": "Aprl - Aug 2024",
+            "role": "ML Research Intern, ROMA AI",
+            "location": "Toronto, ON",
+            "image": "/logos/huawei.png",
             "bullets": [
-                "Implemented and maintained Spark and SQL data pipelines to unblock SP deployment in France, improve data transformation workflow for three downstream teams, and contribute three new KPIs to company-wide dashboard",
-                "Created four interactive KPI dashboards for stakeholders and clients using SQL, Matplotlib, and Plotly",
-                "Processed and analyzed data gathered from an A/B test on onboarding email designs using Bayesian hypothesis testing and prepared visualizations for presentation to the marketing manager",
-                "Performed a week of on-call duty involving handling data requests using Trino and BigQuery and triaging and debugging failing pipelines"
+
             ]
         },
         {
-            "company": "Michigan Data Science Team",
-            "dates": "Aug 2021 - Aug 2024",
-            "role": "Vice President of Education, Project Lead",
-            "location": "Ann Arbor, MI",
-            "image": "/logos/mdst.png",
+            "company": "Huawei Technologies Canada",
+            "dates": "May 2023 - Mar 2024",
+            "role": "Software Engineer Intern, Distributed Caching System",
+            "location": "Toronto, ON",
+            "image": "/logos/huawei.png",
             "bullets": [
-                "Project lead for webscrapping & video synthesis, reinforcement learning, image colorization, and sports data analysis and visualization (see projects page)",
-                "Collaborated with other execs on semesterly new member recruiting effort by developing onboarding materials, increased club enrollment by 200+% over two-year tenure",
-                "Revamped two Python tutorials, developed statistics and machine learning challenges, improved setup guides, created a troubleshooting FAQ document, and oversaw a Q&A forum for 100+ new members every semester",
-                "Managed weekly office hours and tutorial sessions with 150+ total attendees to lower the barrier of entry to data science",
-                "Built job opportunity repositories for members with no-code contribution workflows via GitHub actions"
+
+            ]
+        },
+        {
+            "company": "Western University",
+            "dates": "Sept 2025 - Present",
+            "role": "Teaching Assistant - Electronics Lab",
+            "location": "London, ON",
+            "image": "/logos/western.png",
+            "bullets": [
             ]
         }
     ];

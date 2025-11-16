@@ -5,7 +5,7 @@ import { getProjectsData } from "@/lib/projects";
 
 
 export const metadata = {
-    title: 'Projects - Casper Guo',
+    title: 'Projects - Larry Long',
     icons: {
         icon: '/logo.png',
         // shortcut: '/shortcut-icon.png',
