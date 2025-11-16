@@ -76,21 +76,21 @@ export default function Resume() {
                         <Experience data={{
                             "company": "University of Western Ontario",
                             "dates": "Sept 2025 - Apr 2027",
-                            "role": "M.A.Sc. Robotics, Research Focus: LLM-driven Game-Theoretic reasoning for autonomous vehicle trajectory planning",
+                            "role": "Master of Applied Science in ECE Robotics, Research Focus: LLM-driven Game-Theoretic reasoning for autonomous vehicle trajectory planning",
                             "location": "London, ON",
                             "image": "/logos/western.png",
                         }} ><p>
-                                <span className="font-bold">Coursework:</span> Computer Networks, Data Center Networks & Systems, Software Hardware Co-Design for ML, ML Security, Blockchain, Algorithms, Tech Policy & Privacy Law, Online Communities
+                                <span className="font-bold">Coursework:</span> Cybersecurity in Machine Learning, Engineering Statistics & Reliability Analysis
                             </p></Experience>
                         <Experience data={{
-                            "company": "University of Michigan",
-                            "dates": "Aug 2020 - May 2024",
-                            "role": "Bachelor of Science in Engineering in Data Science summa cum laude, Math Minor, Linguistics Minor - 3.90/4.00 GPA",
-                            "location": "Ann Arbor, MI",
-                            "image": "/logos/michigan.png",
+                            "company": "University of Toronto",
+                            "dates": "Sept 2020 - June 2025",
+                            "role": "Bachelor of Applied Science in Computer Engineering, Minor in Engineering Business",
+                            "location": "Toronto, ON",
+                            "image": "/logos/uoft.png",
 
                         }} ><p>
-                                <span className="font-bold">Coursework:</span> Machine Learning, Software Engineering, Data Structure & Algorithms, Web Systems, Computer Organization, Natural Language Processing, Applied Regression Analysis, Probability, Combinatorics & Graph Theory, Reinforcement Learning, Quantum Computing, Information Retrieval
+                                <span className="font-bold">Coursework:</span> Computer Security, Computer Networks, Distributed Systems, Operating Systems, Deep Learning, Data Structures & Algorithms, Software Design
                             </p></Experience>
                     </div>
                     <div className='py-2'>
