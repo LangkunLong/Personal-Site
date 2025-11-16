@@ -1,18 +1,18 @@
 [
     {
-        "name": "Armchair Strategist - A Formula 1 Strategy Dashboard",
-        "link": "https://armchair-strategist.dev/",
-        "github": "https://github.com/Casper-Guo/Armchair-Strategist",
+        "name": "SnapNutrient - Your personalzied nutrition tracking platform",
+        "link": "https://snapnutrient.com/",
+        "github": "https://github.com/LangkunLong/SnapNutrient-Public",
         "icons": [
-            "Python",
-            "pandas",
-            "plotly",
+            "TypeScript",
+            "GPT",
+            "RAG",
             "aws",
-            "nginx",
-            "gunicorn"
+            "Next.js",
+            "Google OAuth"
         ],
-        "description": "Implemented data transformation pipelines with Pandas. Developed interactive dashboard with plotly dash. Deployed on AWS using EC2, S3, and Route 53 with automated data refresh and daily code deployment.",
-        "desktopImage": "/armchair_strategist.png"
+        "description": "Launched an AI-powered meal tracking platform using Next.js and TypeScript secured via Google OAuth2, enabling users to log meals via photo, receive personalized nutrition analysis, and interact socially through likes and comments.",
+        "desktopImage": "/snapnutrient-features.png"
     },
     {
         "name": "Image Colorization with Generative Adversarial Network (GAN)",
