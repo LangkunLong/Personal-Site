@@ -47,13 +47,17 @@ export default async function Home() {
             alt="Me, myself, and I"
           />
           <div className='md:w-2/3 lg:w-1/2'>
-            <h2 className='text-3xl font-bold mb-2'>What's up!</h2>
-            <p className='mb-2'>Hi All, I just recently finished my B.A.Sc. in Computer Engineering at the University of Toronto, and started my M.E.Sc at Western University. My research focus is on using game theoretic applications of Large Language Models as trajectory planners for Autonomous Vehicles, focusing on improved safety and contextual reasoning!</p>
-            <p className='mb-2'>Over the summer I interned at Criteo as a software intern working on backend development using C#., ASP.NET, and RESTApi.</p>
-            <p className='mb-2'>My other experiences include working at Huawei Technologies as a co-op student where I worked on Redis and KeyDB design verifications on the Distributed Caching team, and working with LLM prompting and RAG on the ROMA AI team.</p>
-            <p className='mb-2'>I love to play basketball! If you have an open court, feel free to let me know and let's get some hoops in!</p>
-            <Button text="View My Resume 📄" href='/resume' />
+            <div className='relative'>
+              <div className='absolute -top-10 -left-10 w-20 h-20 bg-blue-500 rounded-full opacity-30 animate-pulse'></div>
+              <div className='absolute -bottom-10 -right-10 w-32 h-32 bg-pink-500 rounded-full opacity-30 animate-pulse'></div>
+              <h2 className='text-3xl font-bold mb-2'>What&apos;s up! 🌟</h2>
+              <p className='mb-2'>Hi All, I just recently finished my B.A.Sc. in Computer Engineering at the University of Toronto 🎓, and started my M.E.Sc at Western University 🏫. My research focus is on using game theoretic applications of Large Language Models 🤖 as trajectory planners for Autonomous Vehicles 🚗, focusing on improved safety and contextual reasoning!</p>
+              <p className='mb-2'>Over the summer I interned at Criteo as a software intern working on backend development using C# 💻, ASP.NET, and RESTApi.</p>
+              <p className='mb-2'>My other experiences include working at Huawei Technologies as a co-op student where I worked on Redis and KeyDB design verifications on the Distributed Caching team 🗄️, and working with LLM prompting and RAG on the ROMA AI team 🤖.</p>
+              <p className='mb-2'>I love to play basketball 🏀! If you have an open court, feel free to let me know and let&apos;s get some hoops in!</p>
+              <Button text="View My Resume 📄" href='/resume' />
 
+            </div>
           </div>
         </div>
       </section>
