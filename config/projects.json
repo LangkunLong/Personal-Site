@@ -15,14 +15,14 @@
         "desktopImage": "/snapnutrient-features.png"
     },
     {
-        "name": "Image Colorization with Generative Adversarial Network (GAN)",
-        "github": "https://github.com/MichiganDataScienceTeam/W23-Image-Colorization",
+        "name": "Robotics for Space Exploration - CIRC Competition 2022",
+        "github": "https://github.com/rsx-utoronto",
         "icons": [
             "Python",
-            "Jupyter",
-            "Pytorch",
-            "TensorFlow",
-            "Keras"
+            "C++",
+            "ROS",
+            "Nvidia Jetson",
+            "CANBUS"
         ],
         "description": "Co-led a team of 15. Trained cGAN with U-Net architecture on 25,000-image MIRFLICKR dataset using slurm on University of Michigan's Great Lakes HPC Cluster",
         "desktopImage": "/cloud.jpg"
