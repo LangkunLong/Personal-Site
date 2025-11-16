@@ -35,7 +35,10 @@ export default function Resume() {
             "location": "Toronto, ON",
             "image": "/logos/huawei.png",
             "bullets": [
-
+                "Implemented an end-to-end bilingual chatbot pipeline using BERT, RAG, and E5 transformers, enabling query templating, LLM interaction, and structured output generation.",
+                "Optimized and iterated on LLM prompts using a modified RAG approach by pre-ranking knowledge base samples, significantly improving template recall and boosting pipeline accuracy by 90%.",
+                "Improved BERT and E5 model accuracy to 95% by expanding training datasets with curated false positives/negatives, reducing misclassification in semantic similarity tasks.",
+                "Evaluated Llama 3, Qwen, Mistral-Nemo LLMs; proposed a fine-tuned T5 model and presented comparative results to HQ."
             ]
         },
         {
@@ -45,7 +48,9 @@ export default function Resume() {
             "location": "Toronto, ON",
             "image": "/logos/huawei.png",
             "bullets": [
-
+                "Optimized buffer population functions in Redis and KeyDB (C, C++, Go), delivering a 50% throughput improvement and 30% latency reduction across read/write/update operations.",
+                "Designed and executed functional regression tests across single-node, primary-backup, and cluster setups in Linux, EulerOS, and Docker; ensured consistent behavior through Memtier-Benchmark, flame graphs, and CPU/Memory profiling.",
+                "Implemented RedisJSON client test suites in Java and JavaScript from scratch, covering all AWS JSON command reference cases to support full module validation and language compatibility."
             ]
         },
         {
@@ -55,6 +60,7 @@ export default function Resume() {
             "location": "London, ON",
             "image": "/logos/western.png",
             "bullets": [
+                "Led lab sessions on circuit-building and instrumentation, helping students achieve a 90% average on hands-on lab assignments."
             ]
         }
     ];
