@@ -1,5 +1,11 @@
 [
     {
+        "name": "Naturally-Learned-Trojan-Triggers-for-VGGFace",
+        "github": "https://github.com/LangkunLong/Naturally-Learned-Trojan-Triggers-for-VGGFace",
+        "description": "Extends the trigger generation phase of TrojanNN through a fully differentiable trigger: We treat the mask shape, pixel colors, and transparency (alpha) as learnable parameters that are optimized simultaneously via gradient descent to maximize specific neuron activations.",
+        "desktopImage": "/Evaluation diagram.jpg"
+    },
+    {
         "name": "SnapNutrient - Your personalzied nutrition tracking platform",
         "link": "https://snapnutrient.com/",
         "github": "https://github.com/LangkunLong/SnapNutrient-Public",
