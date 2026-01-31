@@ -1,4 +1,11 @@
-[
+[    
+    {
+        "name": "Yinlink - real time bilingual calls",
+        "github": "https://github.com/LangkunLong/Yinlink-public",
+        "link": "https://yin-link-nex-hacks.vercel.app/",
+        "description": "Yinlink is a Real-time bi-directional English ↔ Mandarin translation system powered by LiveKit and OpenAI. We focus on provding real-time, low latency, and direct user to user translation by creating a ghost voice bridge between users, ensuring a smooth and easy user experience.",
+        "desktopImage": "/Yinlink.JPG"
+    },
     {
         "name": "Naturally-Learned-Trojan-Triggers-for-VGGFace",
         "github": "https://github.com/LangkunLong/Naturally-Learned-Trojan-Triggers-for-VGGFace",
